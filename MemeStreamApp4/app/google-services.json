@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "710132274396",
+    "project_id": "memestream-6692f",
+    "storage_bucket": "memestream-6692f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710132274396:android:4c3bfa4355a3ed20b89019",
+        "android_client_info": {
+          "package_name": "com.example.memestreamapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710132274396-77jker0arv89m324netci7db2p7osnrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.memestreamapp",
+            "certificate_hash": "ba81a3aa20a907127ee09f51b01d2136e98d265a"
+          }
+        },
+        {
+          "client_id": "710132274396-sdam5chhd8elviaeobi8h4nrata0s22j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABcGt29I3mLGGM9yjnxVDxI9tfq1bsd6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710132274396-qg8gf6phidmu5onjjm4siukm2b8efqiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
